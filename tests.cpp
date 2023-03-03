@@ -1,5 +1,5 @@
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
-#include "doctest2.h"
+#include "doctest.h"
 #include "funcs.h"
 
 // Task A
